@@ -136,7 +136,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 >Place the widget where you want it, then start the widget cam.
 
 
-<img src="demo/png/step4.png" alt="drawing" height="400" width="1290"/>
+<img src="demo/png/step4.png" alt="drawing" height="400" width="1490"/>
 
 
 ---
@@ -146,7 +146,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 >On the app there is a green button, this button allows you to choose to capture the screen you want. click it!
 
 
-<img src="demo/png/step5.png" alt="drawing" height="400" width="1290"/>
+<img src="demo/png/step5.png" alt="drawing" height="400" width="1490"/>
 
 
 ---
@@ -168,7 +168,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 >Click on the red button to stop the audio/video recording.
 
 
-<img src="demo/png/step7.png" alt="drawing" height="400" width="1290"/>
+<img src="demo/png/step7.png" alt="drawing" height="400" width="1490"/>
 
 
 ---
