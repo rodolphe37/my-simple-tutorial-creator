@@ -46,6 +46,33 @@ You can easily install this application on a Windows, Mac or Linux computer.
 *** *This widget installs directly on MacOs/Linux/Windows computers, there is no web version, it is a desktop version only.***
 
 ---
+
+# How to select screen, window or browser tab
+
+
+**:heavy_exclamation_mark: Select the screen you want to record!**
+
+
+![alt text](demo/select-screen.gif "My Simple Tutorial Creator")
+
+---
+
+
+**:heavy_exclamation_mark: Select the window you want to record!**
+
+
+![alt text](demo/select-window.gif "My Simple Tutorial Creator")
+
+---
+
+**:heavy_exclamation_mark: Select the browser tab you want to record!**
+
+
+![alt text](demo/select-browserTab.gif "My Simple Tutorial Creator")
+
+---
+
+
 ## The native code editor!
 
 **:heavy_exclamation_mark: You can work directly in the editor, any changes are taken into account instantly.**
@@ -62,15 +89,13 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 ---
 
-**:heavy_exclamation_mark: **
+## Other code editor!
 
->
+###  **You need to install "my Simple Cam" widget before**
 
-![alt text](demo/confirm-delete-card.gif "My Simple Tutorial Creator")
+>The link for download the widget for your operating system [here](https://github.com/rodolphe37/my-simple-cam-dektop-app)
 
----
-
-**:heavy_exclamation_mark: **
+**:heavy_exclamation_mark: How to record my usual code editor with My Simple Tutorial Creator & the My simple Cam widget?**
 
 >
 
