@@ -46,16 +46,19 @@ You can easily install this application on a Windows, Mac or Linux computer.
 *** *This widget installs directly on MacOs/Linux/Windows computers, there is no web version, it is a desktop version only.***
 
 ---
-##
+## The native code editor!
 
+**:heavy_exclamation_mark: You can work directly in the editor, any changes are taken into account instantly.**
+
+![alt text](demo/native-editor.gif "My Simple Tutorial Creator")
 
 ---
 
-**:heavy_exclamation_mark:**
+**:heavy_exclamation_mark: You can record your video directly, and then once it is finished, you can download it in .mp4 format.**
 
 >
 
-![alt text](demo/delete.gif "My Simple Tutorial Creator")
+![alt text](demo/movie-capture-screen.gif "My Simple Tutorial Creator")
 
 ---
 
