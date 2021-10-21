@@ -15,11 +15,6 @@
 
 ## <img  style =" float: left; margin-top: 5px; margin-right: 22px " src="demo/camcorder.svg" alt="drawing" height="30" width="25"/>My Simple Tutorial Creator_V1.0.0
 
-It is a Progressive Web App (cross-platform).
-
-You can easily install this application on a Windows, Mac or Linux computer.
-
-
 
 ## :computer: Online sites
 
