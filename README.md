@@ -184,7 +184,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 ## You want deploy your own version
 
->Fork or clone this repository.
+>Fork or clone directly this repository.
 
 ### Install the dependencies
 
@@ -281,4 +281,3 @@ Thank you! :heart:
 MIT
 
 ---
-
