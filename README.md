@@ -182,6 +182,20 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 ---
 
+## :heavy_exclamation_mark: How to unistall the app.
+
+>If you want to uninstall the application from your computer, nothing could be easier!
+>
+>Just start the application.
+![alt text](demo/png/unsinstall/step1.png "My Simple Tutorial Creator")
+
+---
+
+![alt text](demo/png/unsinstall/step2.png "My Simple Tutorial Creator")
+
+---
+
+
 ## You want deploy your own version
 
 >Fork or clone directly this repository.
@@ -222,20 +236,6 @@ npm build
 ```
 
 >Use github, netlify, etc for the deployment!
-
-## :heavy_exclamation_mark: How to unistall the app.
-
->If you want to uninstall the application from your computer, nothing could be easier!
->
->Just start the application.
-![alt text](demo/png/unsinstall/step1.png "My Simple Tutorial Creator")
-
----
-
-![alt text](demo/png/unsinstall/step2.png "My Simple Tutorial Creator")
-
----
-
 
 
 ### **:x:** this application is  not responsive on mobile :mobile_phone_off: (as it is an application for people working in front of a computer - developer like me for example - I did not find useful to do media queries for that).
