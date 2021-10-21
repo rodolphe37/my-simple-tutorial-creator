@@ -107,8 +107,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 **:heavy_exclamation_mark: Start the application installed on the computer (or the web version)**
 
 
-
-<img src="demo/png/step1.png" alt="drawing" height="400" width="640"/>
+![alt text](demo/png/step1.png "My Simple Tutorial Creator")
 
 
 ---
@@ -116,8 +115,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 **:heavy_exclamation_mark: Put the application window on the screen you want...**
 
 
-
-<img src="demo/png/step2.png" alt="drawing" height="400" width="640"/>
+![alt text](demo/png/step2.png "My Simple Tutorial Creator")
 
 
 ---
@@ -125,8 +123,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 **:heavy_exclamation_mark: Now start the My Simple Cam widget**
 
 
-
-<img src="demo/png/step3.png" alt="drawing" height="400" width="640"/>
+![alt text](demo/png/step3.png "My Simple Tutorial Creator")
 
 
 ---
@@ -135,8 +132,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 >Place the widget where you want it, then start the widget cam.
 
-
-<img src="demo/png/step4.png" alt="drawing" height="260" width="1190"/>
+![alt text](demo/png/step4.png "My Simple Tutorial Creator")
 
 
 ---
@@ -145,8 +141,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 >On the app there is a green button, this button allows you to choose to capture the screen you want. click it!
 
-
-<img src="demo/png/step5.png" alt="drawing" height="260" width="1190"/>
+![alt text](demo/png/step5.png "My Simple Tutorial Creator")
 
 
 ---
@@ -155,8 +150,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 >Click on the thumbnail of the screen you wish to capture.
 
-
-<img src="demo/png/step6.png" alt="drawing" height="400" width="660"/>
+![alt text](demo/png/step6.png "My Simple Tutorial Creator")
 
 
 ---
@@ -167,8 +161,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 >
 >Click on the red button to stop the audio/video recording.
 
-
-<img src="demo/png/step7.png" alt="drawing" height="260" width="1190"/>
+![alt text](demo/png/step7.png "My Simple Tutorial Creator")
 
 
 ---
@@ -177,16 +170,14 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 >When the recording is complete, a button to download the video appears.
 
-
-<img src="demo/png/step8.png" alt="drawing" height="400" width="660"/>
+![alt text](demo/png/step8.png "My Simple Tutorial Creator")
 
 
 ---
 
 **:heavy_exclamation_mark: Your video is ready now!...**
 
-
-<img src="demo/png/step9.png" alt="drawing" height="400" width="660"/>
+![alt text](demo/png/step9.png "My Simple Tutorial Creator")
 
 
 ---
@@ -196,12 +187,11 @@ You can easily install this application on a Windows, Mac or Linux computer.
 >If you want to uninstall the application from your computer, nothing could be easier!
 >
 >Just start the application.
+![alt text](demo/png/unsinstall/step1.png "My Simple Tutorial Creator")
 
-<img src="demo/png/unsinstall/step1.png" alt="drawing" height="400" width="660"/>
+---
 
->
-
-<img src="demo/png/unsinstall/step2.png" alt="drawing" height="400" width="660"/>
+![alt text](demo/png/unsinstall/step2.png "My Simple Tutorial Creator")
 
 ---
 
