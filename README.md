@@ -1,13 +1,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rodolphe37/my-simple-tutorial-creator-/blob/main/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rodolphe37/my-simple-tutorial-creator-/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rodolphe37/my-simple-tutorial-creator/graphs/commit-activity)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![GitHub issues](https://badgen.net/github/issues/rodolphe37/my-simple-tutorial-creator-/)](https://github.com/rodolphe37/my-simple-tutorial-creator-/issues)
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rodolphe37/my-simple-tutorial-creator-)
+[![GitHub issues](https://badgen.net/github/issues/rodolphe37/my-simple-tutorial-creator/)](https://github.com/rodolphe37/my-simple-tutorial-creator/issues)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rodolphe37/my-simple-tutorial-creator)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 <img   src="https://badges.aleen42.com/src/react.svg" alt="drawing" height="20" width="65"/>
 
 [![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2a27fa4a-4979-4f11-81f5-17e680c3d5f8/deploy-status)](https://app.netlify.com/sites/wizardly-hoover-d92a3e/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c51ef9f0-a556-4387-b48f-b0452abf478b/deploy-status)](https://app.netlify.com/sites/my-simple-tutorial-creator/deploys)
 
 # User Guide
 
