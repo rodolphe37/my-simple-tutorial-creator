@@ -186,7 +186,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 >Fork or clone this repository.
 
-### Install the depandencies
+### Install the dependencies
 
 ```
 yarn
