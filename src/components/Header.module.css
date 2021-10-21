@@ -53,7 +53,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-right: 15px;
+  margin-right: 70px;
 }
 .buttonsContainer button:last-child {
   margin-left: 15px;
