@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="103.65466mm"
+   height="103.65466mm"
+   viewBox="0 0 103.65466 103.65466"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="men.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73228114"
+     inkscape:cx="25.946319"
+     inkscape:cy="178.21024"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="1600"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-98.14083,-101.03134)">
+    <g
+       id="g3112">
+      <path
+         fill="#cfd8dc"
+         d="m 149.96816,101.03134 c -28.62843,0 -51.82733,23.1989 -51.82733,51.82733 0,28.62843 23.1989,51.82733 51.82733,51.82733 0.74039,0 1.72758,0 2.46797,-0.2468 V 101.27814 c -0.74039,-0.2468 -1.72758,-0.2468 -2.46797,-0.2468 z"
+         id="path824"
+         style="stroke-width:2.46797" />
+      <path
+         fill="#37474f"
+         d="M 152.43613,101.27814 V 204.686 c 10.11866,-0.4936 19.49694,-3.70196 27.14764,-9.13149 v -85.14489 c -7.6507,-5.42953 -17.02898,-8.88469 -27.14764,-9.13148 z"
+         id="path826"
+         style="fill:#cfd8dc;fill-opacity:1;stroke-width:0.3;stroke:#cfd8dc;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         fill="#cfd8dc"
+         d="m 201.79549,152.85867 c 0,-17.52257 -8.88469,-33.07077 -22.21172,-42.44905 v 84.8981 c 13.32703,-9.37828 22.21172,-24.92648 22.21172,-42.44905 z"
+         id="path840"
+         style="stroke-width:2.46797" />
+      <g
+         id="g1474"
+         transform="matrix(1.9293545,0,0,1.9293545,102.40959,106.18276)">
+        <polygon
+           fill="#ff9800"
+           points="29,25 29,31 24,37 19,31 19,25 "
+           id="polygon1432" />
+        <g
+           fill="#ffa726"
+           id="g1438">
+          <circle
+             cx="33"
+             cy="19"
+             r="2"
+             id="circle1434" />
+          <circle
+             cx="15"
+             cy="19"
+             r="2"
+             id="circle1436" />
+        </g>
+        <path
+           fill="#ffb74d"
+           d="m 33,13 c 0,-7.6 -18,-5 -18,0 0,1.1 0,5.9 0,7 0,5 4,9 9,9 5,0 9,-4 9,-9 0,-1.1 0,-5.9 0,-7 z"
+           id="path1440" />
+        <path
+           fill="#424242"
+           d="m 24,4 c -6.1,0 -10,4.9 -10,11 0,0.8 0,2.3 0,2.3 l 2,1.7 v -5 l 12,-4 4,4 v 5 l 2,-1.7 c 0,0 0,-1.5 0,-2.3 0,-4 -1,-8 -6,-9 L 27,4 Z"
+           id="path1442" />
+        <g
+           fill="#784719"
+           id="g1448">
+          <circle
+             cx="28"
+             cy="19"
+             r="1"
+             id="circle1444" />
+          <circle
+             cx="20"
+             cy="19"
+             r="1"
+             id="circle1446" />
+        </g>
+        <polygon
+           fill="#ffffff"
+           points="24,32 29,31 24,43 19,31 "
+           id="polygon1450" />
+        <polygon
+           fill="#d32f2f"
+           points="24,43.5 25.7,39.5 25,35 26,34 24,32 22,34 23,35 22.3,39.5 "
+           id="polygon1452" />
+        <path
+           fill="#546e7a"
+           d="m 29,31 v 0 L 24,43 19,31 C 19,31 8,33 8,44 H 40 C 40,33 29,31 29,31 Z"
+           id="path1454" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,24 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import { EditorProvider } from "context";
+import CodeBar from "components/CodeBar";
+import Preview from "components/Preview";
+import Header from "components/Header";
+import styles from "./App.module.css";
+import PwaLogo from "./assets/pwa-pass-3.svg";
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <EditorProvider>
+      <div className="ribbon ribbon-top-right">
+        <span>
+          <img className="picture-ribbon" src={PwaLogo} alt="ribbon" />
+        </span>
+      </div>
+      <CodeBar />
+      <main className={styles.main}>
+        <Header />
+        <Preview />
+      </main>
+    </EditorProvider>
   );
 }
 
