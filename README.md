@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rodolphe37/my-simple-tutorial-creator-/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rodolphe37/my-simple-tutorial-creator/blob/main/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rodolphe37/my-simple-tutorial-creator/graphs/commit-activity)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![GitHub issues](https://badgen.net/github/issues/rodolphe37/my-simple-tutorial-creator/)](https://github.com/rodolphe37/my-simple-tutorial-creator/issues)
