@@ -182,6 +182,47 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 ---
 
+## You want deploy your own version
+
+>Fork or clone this repository.
+
+### Install the depandencies
+
+```
+yarn
+```
+or
+
+```
+npm i
+```
+### Start the App
+
+```
+yarn start
+
+```
+or
+
+```
+npm start
+
+```
+### for deploy on your cnd
+
+```
+yarn build
+
+```
+
+or
+
+```
+npm build
+```
+
+>Use github, netlify, etc for the deployment!
+
 ## :heavy_exclamation_mark: How to unistall the app.
 
 >If you want to uninstall the application from your computer, nothing could be easier!
