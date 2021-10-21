@@ -239,6 +239,7 @@ npm build
 
 >Use github, netlify, etc for the deployment!
 
+---
 
 ### **:x:** this application is  not responsive on mobile :mobile_phone_off: (as it is an application for people working in front of a computer - developer like me for example - I did not find useful to do media queries for that).
 
