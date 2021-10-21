@@ -15,6 +15,7 @@
 
 ## <img  style =" float: left; margin-top: -12px; margin-right: 22px " src="demo/camcorder.svg" alt="drawing" height="50" width="35"/>My Simple Tutorial Creator_V1.0.0
 
+---
 
 ## :computer: Online sites
 
