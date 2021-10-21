@@ -21,6 +21,7 @@
 
 **You can use My Simple Tutorial Creator for FREE** **[here](https://my-simple-tutorial-creator.netlify.app)**.
 
+---
 
 ### :bookmark: This application is a "mini video tutorial recording studio" with a built-in code editor (html/css/js)... but not only, you can capture the screen, window or browser tab you want, so you can use your usual editor without any worries*!
 
