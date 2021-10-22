@@ -224,7 +224,7 @@ or
 npm start
 
 ```
-### for deploy on your cnd
+### Build & deploy
 
 ```
 yarn build
