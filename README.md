@@ -45,7 +45,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 ## :heavy_exclamation_mark: Important Info:
 >The built-in Cam only works on the application's native code editor - to record a screen or window with Cam option other than the one in the application, use the "My Simple Cam* " widget designed for this purpose.
 
-*** *[This widget](https://github.com/rodolphe37/my-simple-cam-dektop-app) installs directly on MacOs/Linux/Windows computers, there is no web version, it is a desktop version only.***
+***[*This widget](https://github.com/rodolphe37/my-simple-cam-dektop-app) installs directly on MacOs/Linux/Windows computers, there is no web version, it is a desktop version only.***
 
 ---
 
