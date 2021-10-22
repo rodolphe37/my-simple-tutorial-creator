@@ -13,7 +13,7 @@
 
 ---
 
-## <img  style =" float: left; margin-top: -12px; margin-right: 22px " src="demo/camcorder.svg" alt="drawing" height="50" width="50"/>My Simple Tutorial Creator_V1.0.0
+## <img  style =" float: left; margin-right: 22px " src="demo/camcorder.svg" alt="drawing" height="50" width="50"/>My Simple Tutorial Creator_V1.0.0
 
 ---
 
