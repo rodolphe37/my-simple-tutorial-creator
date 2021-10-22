@@ -237,7 +237,7 @@ or
 npm build
 ```
 
->Use github, netlify, etc for the deployment!
+>Use github, netlify, vercel, etc... for the deployment!
 
 ---
 
