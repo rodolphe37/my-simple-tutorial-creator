@@ -7,7 +7,7 @@
 <img   src="https://badges.aleen42.com/src/react.svg" alt="drawing" height="20" width="65"/>
 
 [![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4588ff08-9372-4410-902a-5874799105eb/deploy-status)](https://app.netlify.com/sites/my-simple-tutorial-creator/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6d270a29-eb7d-4aa4-b93a-46add17b6425/deploy-status)](https://app.netlify.com/sites/mystifying-hugle-40a501/deploys)
 
 # User Guide
 
