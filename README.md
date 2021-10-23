@@ -132,10 +132,17 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 **:heavy_exclamation_mark: Place the widget where you want**
 
->Place the widget where you want it, then start the widget cam.
+>Place the widget where you want it,
 
-![alt text](demo/png/step4.png "My Simple Tutorial Creator")
+![alt text](demo/png/step4-2.png "My Simple Tutorial Creator")
 
+>then start the widget cam.
+
+![alt text](demo/png/step5-2.png "My Simple Tutorial Creator")
+
+>And the button to start recording.
+
+![alt text](demo/png/step4-1.png "My Simple Tutorial Creator")
 
 ---
 
@@ -143,7 +150,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 >On the app there is a green button, this button allows you to choose to capture the screen you want. click it!
 
-![alt text](demo/png/step5.png "My Simple Tutorial Creator")
+![alt text](demo/png/step5-1.png "My Simple Tutorial Creator")
 
 
 ---
@@ -160,11 +167,12 @@ You can easily install this application on a Windows, Mac or Linux computer.
 **:heavy_exclamation_mark: When recording is in progress...**
 
 >A message appears at the bottom of the relevant window.
->
+
+![alt text](demo/png/step7-2.png "My Simple Tutorial Creator")
+
 >Click on the red button to stop the audio/video recording.
 
-![alt text](demo/png/step7.png "My Simple Tutorial Creator")
-
+![alt text](demo/png/step7-1.png "My Simple Tutorial Creator")
 
 ---
 
